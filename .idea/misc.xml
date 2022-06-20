@@ -5,6 +5,7 @@
       <list>
         <option value="$PROJECT_DIR$/Springboot_hello/pom.xml" />
         <option value="$PROJECT_DIR$/SpringMybatis/pom.xml" />
+        <option value="$PROJECT_DIR$/SpringbootSSM/pom.xml" />
       </list>
     </option>
   </component>

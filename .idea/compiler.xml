@@ -8,16 +8,19 @@
         <outputRelativeToContentRoot value="true" />
         <module name="Springboot_hello" />
         <module name="SpringMybatis" />
+        <module name="SpringbootSSM" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="Springboot_hello" target="1.8" />
+      <module name="SpringbootSSM" target="1.8" />
       <module name="SpringMybatis" target="1.8" />
     </bytecodeTargetLevel>
   </component>
   <component name="JavacSettings">
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
       <module name="SpringMybatis" options="-parameters" />
+      <module name="SpringbootSSM" options="-parameters" />
       <module name="Springboot_hello" options="-parameters" />
     </option>
   </component>
