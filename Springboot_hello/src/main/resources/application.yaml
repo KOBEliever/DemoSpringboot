@@ -1,2 +1,12 @@
+lesson: SpringBoot
+
 server:
-  port: 82
+  port: 80
+
+enterprise:
+  name: dingyi
+  age: 21
+  tel: 123456
+  subject:
+    - java
+    - vue
